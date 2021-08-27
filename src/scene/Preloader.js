@@ -22,7 +22,7 @@ class Preloader extends Phaser.Scene {
 			'image': [
 				['bg', 'img/bg.jpg'],
 				['ring', 'img/ring.png'],
-				['wheel', 'img/wheel.png'],
+				['wheel', 'img/wheel1.png'],
 				['play', 'img/play.png'],
 			],
 			'spritesheet': [
