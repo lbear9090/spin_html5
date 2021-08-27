@@ -1,0 +1,11 @@
+{
+    "name": "Spin",
+    "short_name": "spin",
+    "description": "Spin Game",
+    "icons": [
+    ],
+    "start_url": "/index.html",
+    "display": "fullscreen",
+    "theme_color": "#E7E7E7",
+    "background_color": "#9FC210"
+}
